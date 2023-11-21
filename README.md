@@ -10,11 +10,15 @@ Text-to-Speech Conversion: Convert written text into natural-sounding speech for
 Google Search Integration: Perform Google searches by speaking your queries, enhancing the search experience with voice commands.
 YouTube Search Integration: Effortlessly search for videos on YouTube by speaking your search terms.
 Customizable Interface: Tailor the user interface to suit individual preferences, with options for different styles and layouts.
-Use Cases:
+
+
+Use_Cases:
 
 Text Transcription: Quickly transcribe spoken words into written text for note-taking or documentation.
 Voice-Activated Google Search: Perform hands-free Google searches by simply speaking your queries.
 YouTube Video Search: Search for videos on YouTube using voice commands, making the process more convenient.
+
+
 How to Use:
 
 Launch the application and explore the intuitive interface.
